@@ -6,9 +6,9 @@
 
 ## Problem 💥
 
-The American wine industry generates over $276 billion for the US economy.
+The American wine industry generates over <strong>$276 billion</strong> for the US economy.
 
-Disease in wine grape crops can cost United States growers billions of dollars each year.
+Disease in wine grape crops can cost United States growers <strong>billions</strong> of dollars each year.
 
 Detecting the presence of a virus or bacteria can be costly, too and in some cases, visual signs of disease aren't obvious until a year after an infection occurs. At that point, it can be too late to save the diseased vines. A few influential problems are caused by the following: 
 

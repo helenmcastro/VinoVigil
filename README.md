@@ -19,8 +19,8 @@ Detecting the presence of a virus or bacteria can be costly, too and in some cas
 * Increased Vulnerability: Diseased plants often have weakened immune systems, making them more susceptible to other diseases or pests.
 
 ## Solution ✨
-* I will use Alexnet to help train the model with images and indetify diseased grapes.
-  
+* I will use Alexnet to help train the model with images and indetify diseased grapes. The pretrained network can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals.
+
 * Image Collection: Use drones or automated robotic systems to capture high-resolution images of the vineyards at regular intervals.
 
 * Data Labeling: For the initial training of the AI, a set of images with known disease statuses should be labeled by experts. This serves as the foundational data on which the AI model is trained.

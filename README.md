@@ -33,7 +33,12 @@ Detecting the presence of a virus or bacteria can be costly, too and in some cas
 
 
 ## Solution ✨
+
 * I will use Alexnet to help train the model with images and indetify diseased grapes. The pretrained network can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals.
+
+<p align="left" style="border-radius: 50%; overflow: hidden; width: 40px; height: 40px;">
+  <img src="alexnet.png" alt="AlexNet" style="display: block; width: 50%; height:50%; object-fit: cover;" />
+</p>
 
 * Image Collection: Use drones or automated robotic systems to capture high-resolution images of the vineyards at regular intervals.
 

@@ -1,7 +1,7 @@
 # VinoVigil 🍇👀
 
 <p align="left" style="border-radius: 50%; overflow: hidden; width: 40px; height: 40px;">
-  <img src="vino-vigil.png" alt="PulseView Logo" style="display: block; width: 20%; height:20%; object-fit: cover;" />
+  <img src="vino-vigil.png" alt="Vino Vigil Logo" style="display: block; width: 20%; height:20%; object-fit: cover;" />
 </p>
 
 ## Problem 💥
@@ -19,6 +19,17 @@ Detecting the presence of a virus or bacteria can be costly, too and in some cas
 * <strong>Spread of Disease:</strong> Some grape diseases are highly contagious and can spread quickly within a vineyard and to neighboring vineyards. This can lead to wider outbreaks that are difficult and expensive to control.
 
 * <strong>Increased Vulnerability:</strong> Diseased plants often have weakened immune systems, making them more susceptible to other diseases or pests.
+
+### Diseased Grape 
+<p align="left" style="border-radius: 50%; overflow: hidden; width: 40px; height: 40px;">
+  <img src="bad wine grape.jpg" alt="Bad Grape" style="display: block; width: 20%; height:20%; object-fit: cover;" />
+</p>
+
+### Healthy Grape 
+<p align="left" style="border-radius: 50%; overflow: hidden; width: 40px; height: 40px;">
+  <img src="good wine.jpg" alt="Good Grape" style="display: block; width: 20%; height:20%; object-fit: cover;" />
+</p>
+
 
 
 ## Solution ✨

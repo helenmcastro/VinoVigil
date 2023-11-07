@@ -6,6 +6,8 @@
 
 ## Problem 💥
 
+The American wine industry generates over $276 billion for the US economy.
+
 Disease in wine grape crops can cost United States growers billions of dollars each year.
 
 Detecting the presence of a virus or bacteria can be costly, too and in some cases, visual signs of disease aren't obvious until a year after an infection occurs. At that point, it can be too late to save the diseased vines. A few influential problems are caused by the following: 
@@ -17,6 +19,7 @@ Detecting the presence of a virus or bacteria can be costly, too and in some cas
 * <strong>Spread of Disease:</strong> Some grape diseases are highly contagious and can spread quickly within a vineyard and to neighboring vineyards. This can lead to wider outbreaks that are difficult and expensive to control.
 
 * <strong>Increased Vulnerability:</strong> Diseased plants often have weakened immune systems, making them more susceptible to other diseases or pests.
+
 
 ## Solution ✨
 * I will use Alexnet to help train the model with images and indetify diseased grapes. The pretrained network can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals.

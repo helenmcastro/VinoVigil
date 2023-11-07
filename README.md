@@ -10,13 +10,13 @@ Disease in wine grape crops can cost United States growers billions of dollars e
 
 Detecting the presence of a virus or bacteria can be costly, too and in some cases, visual signs of disease aren't obvious until a year after an infection occurs. At that point, it can be too late to save the diseased vines. A few influential problems are caused by the following: 
 
-* Compromised Grape Quality: Even if the grapes from a diseased vine look fine, their quality may be compromised. This can lead to wines with off-flavors, imbalances, or other undesirable characteristics.
+* <strong>Compromised Grape Quality:</strong> Even if the grapes from a diseased vine look fine, their quality may be compromised. This can lead to wines with off-flavors, imbalances, or other undesirable characteristics.
 
-* Economic Impact: Reduced yield and quality directly translate to economic losses. The cost of treating diseases, combined with lower sales due to decreased volume and potential quality issues, can have a major impact on a vineyard's profitability.
+* <strong>Economic Impact:</strong> Reduced yield and quality directly translate to economic losses. The cost of treating diseases, combined with lower sales due to decreased volume and potential quality issues, can have a major impact on a vineyard's profitability.
 
-* Spread of Disease: Some grape diseases are highly contagious and can spread quickly within a vineyard and to neighboring vineyards. This can lead to wider outbreaks that are difficult and expensive to control.
+* <strong>Spread of Disease:</strong> Some grape diseases are highly contagious and can spread quickly within a vineyard and to neighboring vineyards. This can lead to wider outbreaks that are difficult and expensive to control.
 
-* Increased Vulnerability: Diseased plants often have weakened immune systems, making them more susceptible to other diseases or pests.
+* <strong>Increased Vulnerability:</strong> Diseased plants often have weakened immune systems, making them more susceptible to other diseases or pests.
 
 ## Solution ✨
 * I will use Alexnet to help train the model with images and indetify diseased grapes. The pretrained network can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals.
@@ -33,17 +33,17 @@ Detecting the presence of a virus or bacteria can be costly, too and in some cas
 
 ## Benefits 📈
 
-* Increased Yield: Early detection allows farmers to address the problem promptly, ensuring that a higher percentage of grapes reach maturity and can be harvested.
+* <strong>Increased Yield:</strong> Early detection allows farmers to address the problem promptly, ensuring that a higher percentage of grapes reach maturity and can be harvested.
 
-* Cost Savings: By catching the disease early on, farmers can avoid expensive treatments or the cost of replacing large numbers of vines. This results in reduced operational costs and more profits.
+* <strong>Cost Savings:</strong> By catching the disease early on, farmers can avoid expensive treatments or the cost of replacing large numbers of vines. This results in reduced operational costs and more profits.
 
-* Consistent Quality: A healthy grape crop leads to better wine quality. Early detection ensures that diseased grapes don't make it into the final product, maintaining the reputation and consistency of the wine.
+* <strong>Consistent Quality:</strong> A healthy grape crop leads to better wine quality. Early detection ensures that diseased grapes don't make it into the final product, maintaining the reputation and consistency of the wine.
 
-* Reduced Spread: By identifying and treating or removing diseased plants early, there's a lower chance of the disease spreading to neighboring vines or even neighboring vineyards.
+* <strong>Reduced Spread:</strong> By identifying and treating or removing diseased plants early, there's a lower chance of the disease spreading to neighboring vines or even neighboring vineyards.
 
-* Sustainable Practices: With precise disease detection, farmers can apply pesticides or treatments only where needed, reducing the environmental impact and ensuring more sustainable farming practices.
+* <strong>Sustainable Practices:</strong> With precise disease detection, farmers can apply pesticides or treatments only where needed, reducing the environmental impact and ensuring more sustainable farming practices.
 
-* Consumer Trust: Knowing that vineyards are employing advanced technologies to ensure the health of their crops can build trust among consumers, leading to brand loyalty and growth in sales.
+* <strong>Consumer Trust:</strong> Knowing that vineyards are employing advanced technologies to ensure the health of their crops can build trust among consumers, leading to brand loyalty and growth in sales.
 
 ## Data 📸
 [Data Deck](https://docs.google.com/presentation/d/1bTsrdUj_3KlBQo007blyHTvqQSqNvJ2_SJgl7Zezm2o/edit#slide=id.g206f8279a60_0_0)

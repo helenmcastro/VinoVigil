@@ -59,6 +59,33 @@ Detecting the presence of a virus or bacteria can be costly, too and in some cas
 
 * <strong>Consumer Trust:</strong> Knowing that vineyards are employing advanced technologies to ensure the health of their crops can build trust among consumers, leading to brand loyalty and growth in sales.
 
+## Results 
+
+### Progress over Time
+
+The graphs below indicate the training accuracy (`acc_train`) and loss over the course of the training runs:
+
+### Accuracy 
+<p align="left" style="border-radius: 50%; overflow: hidden; width: 100px; height: 100px;">
+  <img src="accuracy.png" alt="Accuracy" style="display: block; width: 100%; height: 100%; object-fit: cover;" />
+</p>
+
+
+### Loss
+<p align="left" style="border-radius: 50%; overflow: hidden; width: 100px; height: 100px;">
+  <img src="loss.png" alt="Loss" style="display: block; width: 100%; height: 100%; object-fit: cover;" />
+</p>
+
+### Run Summary
+
+- **Training Accuracy**: 87.5%
+- **Loss**: 0.4695
+
+
+The high training accuracy suggests that the model has learned to distinguish between diseased and healthy wine grapes effectively. This model could potentially aid in the automation of quality control in viticulture.
+
+
+
 ## Data 📸
 [Data Deck](https://docs.google.com/presentation/d/1bTsrdUj_3KlBQo007blyHTvqQSqNvJ2_SJgl7Zezm2o/edit#slide=id.g206f8279a60_0_0)
 

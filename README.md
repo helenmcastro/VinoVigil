@@ -34,7 +34,7 @@ Detecting the presence of a virus or bacteria can be costly, too and in some cas
 
 ## Solution ✨
 
-* I will use Alexnet to help train the model with images and indetify diseased grapes. The pretrained network can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals.
+* I will use <strong>Alexnet</strong> to help train the model with images and indetify diseased grapes. The pretrained network can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals.
 
 <p align="left" style="border-radius: 50%; overflow: hidden; width: 40px; height: 40px;">
   <img src="alexnet.png" alt="AlexNet" style="display: block; width: 50%; height:50%; object-fit: cover;" />
@@ -96,3 +96,8 @@ The high training accuracy suggests that the model has learned to distinguish be
 
 ## Alexnet 📊
 [Alexnet Loaded Slides ](https://colab.research.google.com/drive/1L-8bVJ0-T99Pp5kRNW-InyEWr4Jx9Yqr#scrollTo=_b4zIKeW2pgC)
+
+## Pose
+[Pose Machine](https://colab.research.google.com/drive/13TMawPpUDsY0cvz5eWPQUKZtbtOk-2_O#scrollTo=VHmTwACwFW-v)
+
+

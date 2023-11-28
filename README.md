@@ -92,6 +92,11 @@ The high training accuracy suggests that the model has learned to distinguish be
 ## Feature Maps
 [Feature Maps](https://colab.research.google.com/drive/1ZvKVJI3__o9lKpgsmAVu5-IybdAzeMl-#scrollTo=mQb-EZfpq-N8)
 
+<img src="Feature_maps.png" width="500" >
+
+
+<hr>
+
 ## Data 📸
 [Data Deck](https://docs.google.com/presentation/d/1bTsrdUj_3KlBQo007blyHTvqQSqNvJ2_SJgl7Zezm2o/edit#slide=id.g206f8279a60_0_0)
 
@@ -102,6 +107,8 @@ The high training accuracy suggests that the model has learned to distinguish be
 [Pose Machine](https://colab.research.google.com/drive/13TMawPpUDsY0cvz5eWPQUKZtbtOk-2_O#scrollTo=VHmTwACwFW-v)
 
 ![wine](wine.gif)
+
 <img src="pose.png" width="500">
+
 <hr>
 

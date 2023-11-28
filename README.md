@@ -100,4 +100,7 @@ The high training accuracy suggests that the model has learned to distinguish be
 ## Pose
 [Pose Machine](https://colab.research.google.com/drive/13TMawPpUDsY0cvz5eWPQUKZtbtOk-2_O#scrollTo=VHmTwACwFW-v)
 
+![wine](wine.gif)
+<img src="pose.png" width="500">
+<hr>
 

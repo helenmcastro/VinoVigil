@@ -89,7 +89,8 @@ The graphs below indicate the training accuracy (`acc_train`) and loss over the 
 
 The high training accuracy suggests that the model has learned to distinguish between diseased and healthy wine grapes effectively. This model could potentially aid in the automation of quality control in viticulture.
 
-
+## Feature Maps
+[Feature Maps](https://colab.research.google.com/drive/1ZvKVJI3__o9lKpgsmAVu5-IybdAzeMl-#scrollTo=mQb-EZfpq-N8)
 
 ## Data 📸
 [Data Deck](https://docs.google.com/presentation/d/1bTsrdUj_3KlBQo007blyHTvqQSqNvJ2_SJgl7Zezm2o/edit#slide=id.g206f8279a60_0_0)

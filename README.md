@@ -155,3 +155,5 @@ Integrating a pose estimation model like MoveNet into VinoVigil can significantl
 
 <hr>
 
+Have Questions? Contact us at castroh2020@fau.edu
+
